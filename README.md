@@ -603,3 +603,4 @@ plot2D(point3D); // ✅ Works! Point3D has everything Point2D needs (plus extra)
 
 ---
 
+# typescript
