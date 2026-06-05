@@ -1,4 +1,4 @@
-# TypeScript Mastery Roadmap
+ # TypeScript Mastery Roadmap
 ### From Basics to Production‑Grade Fullstack Type Safety
 
 > A detailed step‑by‑step learning path for TypeScript, focusing on conceptual depth, React integration, production pitfalls, and full‑stack type‑safe systems. Designed to be used with the Grok Master Instruction Template for interactive Hinglish learning.
