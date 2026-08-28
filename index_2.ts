@@ -53,15 +53,15 @@ interface Employee {
     employeeDesignation: string;
 }
 
-const companyData: Person & Employee = {
-    personName: "nitesh",
-    personAge: 21,
-    personDob: "22-06-2004",
-    employeeId: "20934",
-    employeeDesignation: "engineer",
-}
+// // const companyData: Person & Employee = {
+//     personName: "nitesh",
+//     personAge: 21,
+//     personDob: "22-06-2004",
+//     employeeId: "20934",
+//     employeeDesignation: "engineer",
+// }
 
-console.log(companyData);
+// console.log(companyData);
 
 // Numeric Enum (default)
 
